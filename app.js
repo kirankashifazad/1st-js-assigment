@@ -6,12 +6,12 @@
  Ans:5; alert("Hello...!,i can run js trough my web brouser console ");
 
 
- var userName;
- var myName="kiran azad";
- var test="Hello world";
+//  var userName;
+//  var myName="kiran azad";
+//  var test="Hello world";
 
- alert(myName);
- alert(test);
+//  alert(myName);
+//  alert(test);
 
 
 
@@ -51,22 +51,22 @@
 
   document.write(name +" " +buy+ " "+store)
 
-var userName , _var , $var2 ;
-legal5Veriable
+// var userName , _var , $var2 ;
+// legal5Veriable
 
-var userName;
-var _myvar;
-var $myvar2;
-var first1name;
-var lastName;
+// var userName;
+// var _myvar;
+// var $myvar2;
+// var first1name;
+// var lastName;
 
-illegleVeriable;
+// illegleVeriable;
 
-var 1yourname;
-var @yourname;
-var !your name;
-var 45yourname;
-var %abbc;
+// var 1yourname;
+// var @yourname;
+// var !your name;
+// var 45yourname;
+// var %abbc;
 
 
 var abc ="<h1>Rules for naming JS Veriables</h1>"
@@ -131,17 +131,17 @@ document.write("value after decrement is:" +myVariable+ "</br>")
 var remainder =myVariable%3;
 document.write("the remainder is:"+remainder)
 
-in compleet---------------
+// in compleet---------------
 
 
- var name ="<h1>Temperature Converter:</h1>"
- document.write(name)
- var celsiustemp =25;
- var fahrenheittemp = ("celsiustemp*9/5")+32;
- document.write(celsiustemp+ "c")
+//  var name ="<h1>Temperature Converter:</h1>"
+//  document.write(name)
+//  var celsiustemp =25;
+//  var fahrenheittemp = ("celsiustemp*9/5")+32;
+//  document.write(celsiustemp+ "c")
 
-var name="<h1>shoping cart</h1>"
- document.write(name);
+// var name="<h1>shoping cart</h1>"
+//  document.write(name);
 
 
  var item1 =650
@@ -291,7 +291,7 @@ if("Karachi"){
 
 
 
-  in correct
+//   in correct
 
 var name="<h1>assigment#7 ans 2</h1>"
 document.write( name)
